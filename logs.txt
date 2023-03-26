@@ -1,0 +1,37 @@
+C:\Users\PeceG\Desktop\FINKI\4. Семестар\СИ\SI_2023_lab1_216035>git log
+commit fd1c7e86bcb9541dde20ce520e42f2466c6f3102 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: peaceGiant <pecegiant@gmail.com>
+Date:   Sun Mar 26 15:03:06 2023 +0200
+
+    Fix method sumEvenNumbers.
+
+commit d281d270320cfb72bfffe094b7ca52ad9723855a
+Merge: 15da96b 53344cc
+Author: peaceGiant <pecegiant@gmail.com>
+Date:   Sun Mar 26 15:37:21 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 53344cc8118d7b6080d46a5dee54a8c58dc086d4 (origin/bug2, bug2)
+Author: peaceGiant <pecegiant@gmail.com>
+Date:   Sun Mar 26 15:00:20 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 15da96b8b4c0d7df4eac56d93426921b037319cc (origin/bug1, bug1)
+Author: peaceGiant <pecegiant@gmail.com>
+Date:   Sun Mar 26 14:49:55 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit 002a960b1d8cd22534daa11bcf42b2516e868cc4
+Author: peaceGiant <pecegiant@gmail.com>
+Date:   Sun Mar 26 13:24:59 2023 +0200
+
+    Add java class.
+
+commit c0ee9ad9b9713c669712f0944e07446a63ecef65
+Author: peaceGiant <pecegiant@gmail.com>
+Date:   Sun Mar 26 13:17:23 2023 +0200
+
+    Initial commit.
